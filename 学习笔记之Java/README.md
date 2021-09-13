@@ -1,18 +1,19 @@
 # 学习笔记之Java
 
 * [Java (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
-* Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented,[15] and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA),[16] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.[17] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture. As of 2016, Java is one of the most popular programming languages in use,[18][19][20][21] particularly for client-server web applications, with a reported 9 million developers.[22] Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its original features from SmallTalk, with a syntax similar to C and C++, but it has fewer low-levelfacilities than either of them.
-* The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses. As of May 2007, in compliance with the specifications of the Java Community Process, Sun relicensed most of its Java technologies under the GNU General Public License. Others have also developed alternative implementations of these Sun technologies, such as the GNU Compiler for Java (bytecode compiler), GNU Classpath (standard libraries), and IcedTea-Web (browser plugin for applets).
-* The latest version is Java 11, released on September 25, 2018. Java 11 is a currently supported long-term support (LTS) version ("Oracle Customers will receive Oracle Premier Support"); Oracle released for the "legacy" Java 8 LTS the last "public update", which is free for commercial use, in January 2019. Oracle will still support Java 8 with public updates for personal use up to at least December 2020. Oracle (and others) "highly recommend that you uninstall older versions of Java",[23] because of serious risks due to unresolved security issues.[24][25][26] Since Java 9 is no longer supported, Oracle advises its users to "immediately transition" to Java 11. Oracle extended support for Java 6 ended in December 2018.[27]
-* [Java | Oracle
-* [The Java™ Tutorials (oracle.com)
-* [Overview (Java SE 11 & JDK 11 ) (oracle.com)
-* [面试总结之JAVA - 浩然119 - 博客园 (cnblogs.com)
-* [学习笔记之Java程序设计实用教程 - 浩然119 - 博客园 (cnblogs.com)
-* [学习笔记之JAVA多线程 - 浩然119 - 博客园 (cnblogs.com)
+  * Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented,[15] and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA),[16] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.[17] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture. As of 2016, Java is one of the most popular programming languages in use,[18][19][20][21] particularly for client-server web applications, with a reported 9 million developers.[22] Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its original features from SmallTalk, with a syntax similar to C and C++, but it has fewer low-levelfacilities than either of them.
+  * The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses. As of May 2007, in compliance with the specifications of the Java Community Process, Sun relicensed most of its Java technologies under the GNU General Public License. Others have also developed alternative implementations of these Sun technologies, such as the GNU Compiler for Java (bytecode compiler), GNU Classpath (standard libraries), and IcedTea-Web (browser plugin for applets).
+  * The latest version is Java 11, released on September 25, 2018. Java 11 is a currently supported long-term support (LTS) version ("Oracle Customers will receive Oracle Premier Support"); Oracle released for the "legacy" Java 8 LTS the last "public update", which is free for commercial use, in January 2019. Oracle will still support Java 8 with public updates for personal use up to at least December 2020. Oracle (and others) "highly recommend that you uninstall older versions of Java",[23] because of serious risks due to unresolved security issues.[24][25][26] Since Java 9 is no longer supported, Oracle advises its users to "immediately transition" to Java 11. Oracle extended support for Java 6 ended in December 2018.[27]
+* [Java | Oracle](https://www.java.com/zh-CN/)
+  * [The Java™ Tutorials (oracle.com)](https://docs.oracle.com/javase/tutorial/index.html)
+  * [Overview (Java SE 11 & JDK 11 ) (oracle.com)](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+* [面试总结之JAVA - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/5558990.html)
+* [学习笔记之Java程序设计实用教程 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/4006500.html)
+* [学习笔记之JAVA多线程 - 浩然119 - 博客园 (cnblogs.com)](https://www.cnblogs.com/pegasus923/p/3995855.html)
+
 
 ## RESOURCES
-
+![image](https://user-images.githubusercontent.com/34557994/133023294-b3d40801-efa0-4484-8f4a-108e8fa8a5f8.png)
 * [一文详解 Java 的八大基本类型](https://mp.weixin.qq.com/s/0fvEX2c9XLYy4A9IOQ69TA)
   * https://dev.to/renegadecoder94/the-8-primitive-types-in-java-10cl
 * [【Java基础内容总结】Java基础看这个就足够了](https://mp.weixin.qq.com/s/JvACACqDAxxhJ18cjV-M8w)
@@ -22,8 +23,8 @@
 * [如何检查 Java 数组中是否包含某个值 ？](https://mp.weixin.qq.com/s/EDIgWHA00IrhzTP6e9DzAA)
 * [终于明白为什么要加 final 关键字了](https://mp.weixin.qq.com/s/vkvLOXOpLUzRHMZvnbQ8RA)
   * https://www.jianshu.com/p/acc8d9a67d0c
-* [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！ (qq.com)](
-* [从String中移除空白字符的多种方式！？差别竟然这么大！ (qq.com)
+* [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！ (qq.com)](https://mp.weixin.qq.com/s/7WCgXAsmdQ941UvUuyM79Q)
+* [从String中移除空白字符的多种方式！？差别竟然这么大！ (qq.com)](https://mp.weixin.qq.com/s/kNPltE4MKxSWPBGLMYP9JQ)
 * [在Java中如何优雅地判空](https://mp.weixin.qq.com/s/ycu1eW_lcUYSJ7ZYbdLPTg)
   * http://blog.imuxuan.com/archives/86
 * [是否注意过isEmpty 和 isBlank 区别？](https://mp.weixin.qq.com/s/mzZsFMFJp_HJs8eBsMHl0Q)
@@ -50,16 +51,16 @@
   * https://juejin.im/post/5dc37d895188256d85228de6
 * [Java多线程优化](https://mp.weixin.qq.com/s/fYBiZ28XHpmzjJdU0aD7vw)
 * [一文足以了解什么是 Java 中的锁](https://mp.weixin.qq.com/s/ws0gp-cbbAteJ9kYg7d_-A)
-* [图解 | 你管这玩意叫线程池？ (qq.com)
-* [volatile和synchronized到底啥区别？多图文讲解告诉你 (qq.com)
-* [SimpleDateFormat线程不安全的5种解决方案！ (qq.com)
+* [图解 | 你管这玩意叫线程池？ (qq.com)](https://mp.weixin.qq.com/s/dZijUru_HNpbOWDnEFwEZQ)
+* [volatile和synchronized到底啥区别？多图文讲解告诉你 (qq.com)](https://mp.weixin.qq.com/s/U8WoqH1YRdh1GyFiPDw0KQ)
+* [SimpleDateFormat线程不安全的5种解决方案！ (qq.com)](https://mp.weixin.qq.com/s/5jArXdKP9n1AVdCZNt7nWQ)
 
 ## BEST PRACTICE
 
-* [熬了 3 天夜，小吴肝出了万字 Java 知识地图手册！ (qq.com)
-* [硬核！如何全面系统地自学Java (qq.com)
-* [憋了半个月的 PDF：精通 Java (qq.com)
-* [学会 Java 数据结构，想不飘都难！ (qq.com)
+* [熬了 3 天夜，小吴肝出了万字 Java 知识地图手册！ (qq.com)](https://mp.weixin.qq.com/s/ShGfCxRCfGqSNNAb-UTRCA)
+* [硬核！如何全面系统地自学Java (qq.com)](https://mp.weixin.qq.com/s/AJr-Db_GLNdVU45B0UoV1Q)
+* [憋了半个月的 PDF：精通 Java (qq.com)](https://mp.weixin.qq.com/s/klZBwAFWN8MviP6zvxo6kw)
+* [学会 Java 数据结构，想不飘都难！ (qq.com)](https://mp.weixin.qq.com/s/H0zYz6_fV4xxuAjepd6UhQ)
 * [Java 那些最常用的工具类库 | 原力计划](https://mp.weixin.qq.com/s/HlfPqdc8pdyVNe324ufgqg)
 * [写了那么多年 Java 代码，终于 debug 到 JVM 了](https://mp.weixin.qq.com/s/yByriDq-RNIQHfa0n-t5Kw)
 * [java虚拟机内存模型](https://mp.weixin.qq.com/s/m2dp6jv8lfmy-S2gmQDHvA)
@@ -81,7 +82,7 @@
   System.exit(1);
   ```
 * How to convert double to long ?
-  * [How to Convert a Double to Long in Java - Example Tutorial | Java67]
+  * [How to Convert a Double to Long in Java - Example Tutorial | Java67](https://www.java67.com/2014/11/how-to-convert-double-to-long-in-java-example.html)
     * Double.longValue()
     * casting a double to long
     * if you need rounding you can use Math.round() method to round a floating point number into nearest integral number
@@ -120,52 +121,52 @@
   Read more: https://www.java67.com/2014/11/how-to-convert-double-to-long-in-java-example.html#ixzz6vAnV7wT7
   ```
 * How to convert long to string ?
-  * [Java Program to Convert Long to String - GeeksforGeeks
+  * [Java Program to Convert Long to String - GeeksforGeeks](https://www.geeksforgeeks.org/java-program-to-convert-long-to-string/)
   ```java
   String str = Long.toString(varLong);
   ```
 * How to compare string ?
-  * [How do I compare strings in Java? - Stack Overflow
+  * [How do I compare strings in Java? - Stack Overflow](https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java)
     * == tests for reference equality (whether they are the same object).
     * .equals() tests for value equality (whether they are logically "equal").
 * How to check if double is 0 ?
-  * [java - How to test if a double is zero? - Stack Overflow
+  * [java - How to test if a double is zero? - Stack Overflow](https://stackoverflow.com/questions/18260213/how-to-test-if-a-double-is-zero)
 * What's the Java equivant of Python List ?
   * ArrayList<>
-  * [The List Interface (The Java™ Tutorials > Collections > Interfaces) (oracle.com)
+  * [The List Interface (The Java™ Tutorials > Collections > Interfaces) (oracle.com)](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
     * A List is an ordered Collection (sometimes called a sequence). Lists may contain duplicate elements. In addition to the operations inherited from Collection, the List interface includes operations for the following:
       * Positional access — manipulates elements based on their numerical position in the list. This includes methods such as get, set, add, addAll, and remove.
       * Search — searches for a specified object in the list and returns its numerical position. Search methods include indexOf and lastIndexOf.
       * Iteration — extends Iterator semantics to take advantage of the list's sequential nature. The listIterator methods provide this behavior.
       * Range-view — The sublist method performs arbitrary range operations on the list.
-  * [Java equivalent of Python List - Stack Overflow
-  * [ArrayList in Java - GeeksforGeeks
-  * [Java.util.ArrayList.addall() method in Java - GeeksforGeeks
-  * [ArrayList removeIf() method in Java - GeeksforGeeks
-  * [ArrayList get(index) method in Java with examples - GeeksforGeeks
-  * [Arraylist.contains() in Java - GeeksforGeeks
-  * [Collections.sort() in Java with Examples - GeeksforGeeks
+  * [Java equivalent of Python List - Stack Overflow](https://stackoverflow.com/questions/48772017/java-equivalent-of-python-list)
+  * [ArrayList in Java - GeeksforGeeks](https://www.geeksforgeeks.org/arraylist-in-java/)
+  * [Java.util.ArrayList.addall() method in Java - GeeksforGeeks](https://www.geeksforgeeks.org/java-util-arraylist-addall-method-java/)
+  * [ArrayList removeIf() method in Java - GeeksforGeeks](https://www.geeksforgeeks.org/arraylist-removeif-method-in-java/)
+  * [ArrayList get(index) method in Java with examples - GeeksforGeeks](https://www.geeksforgeeks.org/arraylist-get-method-java-examples/)
+  * [Arraylist.contains() in Java - GeeksforGeeks](https://www.geeksforgeeks.org/arraylist-contains-java/)
+  * [Collections.sort() in Java with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/collections-sort-java-examples/?ref=leftbar-rightbar)
 * What's LinkedHashMap ?
-  * [LinkedHashMap (Java Platform SE 8 ) (oracle.com)
-  * [LinkedHashMap in Java - GeeksforGeeks
-  * [HashMap keySet() Method in Java - GeeksforGeeks
-  * [Map Interface in Java - GeeksforGeeks
-  * [Stream flatMap() in Java with examples - GeeksforGeeks
-  * [Iterable (Java SE 11 & JDK 11 ) (oracle.com)
-  * [Iterable Interface in Java - GeeksforGeeks
+  * [LinkedHashMap (Java Platform SE 8 ) (oracle.com)](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedHashMap.html)
+  * [LinkedHashMap in Java - GeeksforGeeks](https://www.geeksforgeeks.org/linkedhashmap-class-java-examples/)
+  * [HashMap keySet() Method in Java - GeeksforGeeks](https://www.geeksforgeeks.org/hashmap-keyset-method-in-java/)
+  * [Map Interface in Java - GeeksforGeeks](https://www.geeksforgeeks.org/map-interface-java-examples/)
+  * [Stream flatMap() in Java with examples - GeeksforGeeks](https://www.geeksforgeeks.org/stream-flatmap-java-examples/)
+  * [Iterable (Java SE 11 & JDK 11 ) (oracle.com)](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Iterable.html)
+  * [Iterable Interface in Java - GeeksforGeeks](https://www.geeksforgeeks.org/iterable-interface-in-java/)
 * What's LinkedHashSet and HashSet ?
-  * [LinkedHashSet in Java with Examples - GeeksforGeeks
-  * [Convert LinkedHashSet to ArrayList in Java Example - Java Code Examples
-  * [AbstractCollection toArray() Method in Java with Examples - GeeksforGeeks
-  * [AbstractCollection addAll() Method in Java with Examples - GeeksforGeeks
-  * [HashSet in Java - GeeksforGeeks
+  * [LinkedHashSet in Java with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/linkedhashset-in-java-with-examples/)
+  * [Convert LinkedHashSet to ArrayList in Java Example - Java Code Examples](https://www.javacodeexamples.com/convert-linkedhashset-to-arraylist-in-java-example/3061)
+  * [AbstractCollection toArray() Method in Java with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/abstractcollection-toarray-method-in-java-with-examples/)
+  * [AbstractCollection addAll() Method in Java with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/abstractcollection-addall-method-in-java-with-examples/)
+  * [HashSet in Java - GeeksforGeeks](https://www.geeksforgeeks.org/hashset-in-java/)
 * What's Stream ?
-  * [Stream In Java - GeeksforGeeks
-  * [Stream map() in Java with examples - GeeksforGeeks
-  * [How to Convert List to Map in Java | Baeldung
-  * [Examples of Converting List to Map using Streams | amitph
+  * [Stream In Java - GeeksforGeeks](https://www.geeksforgeeks.org/stream-in-java/)
+  * [Stream map() in Java with examples - GeeksforGeeks](https://www.geeksforgeeks.org/stream-map-java-examples/)
+  * [How to Convert List to Map in Java | Baeldung](https://www.baeldung.com/java-list-to-map)
+  * [Examples of Converting List to Map using Streams | amitph](https://www.amitph.com/convert-list-to-map-using-streams/)
 * How to get fields with Java reflection ?
-  * [Class (Java SE 10 & JDK 10 ) (oracle.com)
+  * [Class (Java SE 10 & JDK 10 ) (oracle.com)](https://docs.oracle.com/javase/10/docs/api/java/lang/Class.html#getFields())
     * public Field[] getFields() throws SecurityException
     * Returns an array containing Field objects reflecting all the accessible public fields of the class or interface represented by this Class object.
     * If this Class object represents a class or interface with no accessible public fields, then this method returns an array of length 0.
@@ -175,7 +176,7 @@
     * The elements in the returned array are not sorted and are not in any particular order.
     * Returns:
       * the array of Field objects representing the public fields
-  * [Class (Java SE 10 & JDK 10 ) (oracle.com)
+  * [Class (Java SE 10 & JDK 10 ) (oracle.com)](https://docs.oracle.com/javase/10/docs/api/java/lang/Class.html#getDeclaredFields())
     * public Field[] getDeclaredFields() throws SecurityException
     * Returns an array of Field objects reflecting all the fields declared by the class or interface represented by this Class object. This includes public, protected, default (package) access, and private fields, but excludes inherited fields.
     * If this Class object represents a class or interface with no declared fields, then this method returns an array of length 0.
@@ -183,9 +184,9 @@
     * The elements in the returned array are not sorted and are not in any particular order.
     * Returns:
       * the array of Field objects representing all the declared fields of this class
-  * [Java.lang.Class.getField() Method - Tutorialspoint
-  * [Java.lang.Class.getDeclaredFields() Method - Tutorialspoint
-  * To access private fields, need to set accessible with Method (Java SE 11 & JDK 11 ) (oracle.com)
+  * [Java.lang.Class.getField() Method - Tutorialspoint](https://www.tutorialspoint.com/java/lang/class_getfield.htm)
+  * [Java.lang.Class.getDeclaredFields() Method - Tutorialspoint](https://www.tutorialspoint.com/java/lang/class_getdeclaredfields.htm)
+  * To access private fields, need to set accessible with [Method (Java SE 11 & JDK 11 ) (oracle.com)](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/reflect/Method.html)
     * public void setAccessible​(boolean flag)
     * Description copied from class: AccessibleObject
     * Set the accessible flag for this reflected object to the indicated boolean value. A value of true indicates that the reflected object should suppress checks for Java language access control when it is used. A value of false indicates that the reflected object should enforce checks for Java language access control when it is used, with the variation noted in the class description.
@@ -196,8 +197,8 @@
       * D is in a package that the module containing Dopens to at least the module containing C. All packages in unnamed and open modules are open to all modules and so this method always succeeds when D is in an unnamed or open module.
     * This method cannot be used to enable access to private members, members with default (package) access, protected instance members, or protected constructors when the declaring class is in a different module to the caller and the package containing the declaring class is not open to the caller's module.
     * If there is a security manager, its checkPermission method is first called with a ReflectPermission("suppressAccessChecks") permission.
-  * [What is the difference between getFields and getDeclaredFields in Java reflection - Stack Overflow
-    * [getFields()
+  * [What is the difference between getFields and getDeclaredFields in Java reflection - Stack Overflow](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)
+    * [getFields()](https://docs.oracle.com/javase/10/docs/api/java/lang/Class.html#getFields())
       * All the public fields up the entire class hierarchy.
-    * [getDeclaredFields()
+    * [getDeclaredFields()](https://docs.oracle.com/javase/10/docs/api/java/lang/Class.html#getDeclaredFields())
       * All the fields, regardless of their accessibility but only for the current class, not any base classes that the current class might be inheriting from.
