@@ -54,6 +54,8 @@
 * [图解 | 你管这玩意叫线程池？ (qq.com)](https://mp.weixin.qq.com/s/dZijUru_HNpbOWDnEFwEZQ)
 * [volatile和synchronized到底啥区别？多图文讲解告诉你 (qq.com)](https://mp.weixin.qq.com/s/U8WoqH1YRdh1GyFiPDw0KQ)
 * [SimpleDateFormat线程不安全的5种解决方案！ (qq.com)](https://mp.weixin.qq.com/s/5jArXdKP9n1AVdCZNt7nWQ)
+* [多线程永动任务](https://mp.weixin.qq.com/s/R7QXW15LSiqBiAPbrTu-Fg)
+* [两万字！多线程硬核50问！](https://mp.weixin.qq.com/s/d4weKBaFmgsvTO18TGGhoA)
 
 ## BEST PRACTICE
 
